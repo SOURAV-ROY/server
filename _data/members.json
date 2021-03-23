@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Admin Account",
+    "description": "Description Of Member 1",
+    "email": "admin@gmail.com",
+    "role": "user"
+  },
+  {
+    "name": "Publisher Account",
+    "description": "Description Of Member 2",
+    "email": "publisher@gmail.com",
+    "role": "publisher"
+  },
+  {
+    "name": "User Account",
+    "description": "Description Of Member 3",
+    "email": "user@gmail.com",
+    "role": "user"
+  },
+  {
+    "name": "John Doe",
+    "description": "Description Of Member 4",
+    "email": "john@gmail.com",
+    "role": "publisher"
+  }
+]

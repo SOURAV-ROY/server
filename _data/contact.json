@@ -1,0 +1,22 @@
+[
+  {
+    "email": "admin1@gmail.com",
+    "subject": "Subject 1",
+    "description": "Description 1"
+  },
+  {
+    "email": "admin2@gmail.com",
+    "subject": "Subject 2",
+    "description": "Description 2"
+  },
+  {
+    "email": "admin3@gmail.com",
+    "subject": "Subject 3",
+    "description": "Description 3"
+  },
+  {
+    "email": "admin4@gmail.com",
+    "subject": "Subject 4",
+    "description": "Description 4"
+  }
+]
